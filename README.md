@@ -1,5 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chukka Venugopalam
 
+## About Me
+- CSE Student
+- GATE Aspirant
+- Focused on Data Structures & Problem Solving
+
+## Interests
+- Web Development
+- Data Structures & Algorithms
+- Python Programming
+
+## Current Focus
+- Building consistency
+- Improving problem-solving skills
+
+## Goal
+- Crack GATE
+- Become a skilled software developer
 <!--
 **chukka-venugopalam/chukka-venugopalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
