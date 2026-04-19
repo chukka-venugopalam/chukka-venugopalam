@@ -1,33 +1,54 @@
-# Hi, I'm Chukka Venugopalam
+## Hey, I'm Chukka Venugopalam
+
+ CSE Student | 🎯 GATE Aspirant | 💻 Future Software Engineer
+
+---
 
 ## About Me
-- CSE Student
-- GATE Aspirant
-- Focused on Data Structures & Problem Solving
 
-## Interests
-- Web Development
-- Data Structures & Algorithms
-- Python Programming
+I’m currently focused on building strong fundamentals in Data Structures, Algorithms, and Core Computer Science.
+I believe consistency beats talent, so I show up daily and improve step by step.
 
-## Current Focus
-- Building consistency
-- Improving problem-solving skills
+---
 
-## Goal
-- Crack GATE
-- Become a skilled software developer
-<!--
-**chukka-venugopalam/chukka-venugopalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I’m Doing Right Now
 
-Here are some ideas to get you started:
+-  Preparing seriously for GATE 2026
+-  Solving DSA problems daily (C & Python)
+-  Building small but meaningful projects
+-  Working on consistency and discipline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills I'm Building
+
+-  Data Structures & Algorithms
+-  Python Programming
+-  Web Development (HTML, CSS, JS)
+-  Problem Solving
+
+---
+
+## Projects links
+
+- https://chukka-venugopalam.github.io/Interactive-Graph-Algorithm-Visualizer/
+-  https://chukka-venugopalam.github.io/Page replacement-simulator-/
+-  https://chukka-venugopalam.github.io/os-scheduling-simulator/
+
+---
+
+## 2026 Goals
+
+- Crack GATE with strong rank
+- Solve 500+ DSA problems
+- Build 3–5 solid projects
+- Become job-ready developer
+
+---
+
+## Connect With Me
+-  Email: (optional)
+
+---
+
+ "Consistency > Motivation. Small steps daily = Big results."
