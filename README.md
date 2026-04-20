@@ -32,7 +32,7 @@ I believe consistency beats talent, so I show up daily and improve step by step.
 ## Projects links
 
 - https://chukka-venugopalam.github.io/Interactive-Graph-Algorithm-Visualizer/
--  https://chukka-venugopalam.github.io/Page replacement-simulator-/
+- https://chukka-venugopalam.github.io/Page_replacement-simulator-/
 -  https://chukka-venugopalam.github.io/os-scheduling-simulator/
 
 ---
