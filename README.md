@@ -47,7 +47,7 @@ I believe consistency beats talent, so I show up daily and improve step by step.
 ---
 
 ## Connect With Me
--  Email: (optional)
+-  Email: chukkavenugopalam@gmail.com
 
 ---
 
