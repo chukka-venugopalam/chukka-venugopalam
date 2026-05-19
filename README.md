@@ -1,6 +1,6 @@
 ## Hey, I'm Chukka Venugopalam
 
- CSE Student | 🎯 GATE Aspirant | 💻 Future Software Engineer
+ CSE Student |  GATE Aspirant |  Future Software Engineer
 
 ---
 
