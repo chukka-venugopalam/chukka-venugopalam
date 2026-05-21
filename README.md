@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m currently focused on building strong fundamentals in Data Structures, Algorithms, and Core Computer Science.
+I’m currently focused on building strong fundamentals in Data Structures, Algorithms, new technologies and Core Computer Science.
 I believe consistency beats talent, so I show up daily and improve step by step.
 
 ---
