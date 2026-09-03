@@ -15,8 +15,8 @@ CS undergrad at ANITS (2024–2028) building full-stack and AI/ML products end-t
 
 ## Also here:
 
-- 270+ problems solved on LeetCode (C++/Python) — [profile]
-- Portfolio: portofolio-umber-alpha-83.vercel.app
+- 270+ problems solved on LeetCode (C++/Python) — [https://leetcode.com/u/xifpLOmHqY/]
+- Portfolio: [https://portofolio-umber-alpha-83.vercel.app/]
 - Former Frontend Developer Intern @ DriftSync Solutions
 
 **Stack:** TypeScript, Python, React/Next.js, FastAPI, PostgreSQL
